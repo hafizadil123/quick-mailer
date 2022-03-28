@@ -28,7 +28,7 @@ $ npm install ad-mailer
 		//text: 'Hello world?', // plain text body
 		html: `<h1>Testing ad mailer</h1>` // Make sure you are passing html body in template literal
 	};
- await adMailer(config, options)
+  adMailer(config, options)
 
 ```
 
