@@ -1,6 +1,6 @@
 {
-  "name": "quick-mailer",
-  "version": "1.0.0",
+  "name": "ad-mailer",
+  "version": "1.0.1",
   "description": "Package will help users to send emails using node mailer",
   "main": "server.js",
   "scripts": {
