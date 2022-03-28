@@ -1,6 +1,6 @@
 # ad-mailer
 
-quick Mailer is a node.js for sending emails instantly using one line of code with your own configurations.
+Ad-Mailer is a node.js for sending emails instantly using one line of code with your own configurations.
 
 ## Installation
 
