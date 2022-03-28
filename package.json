@@ -1,6 +1,6 @@
 {
   "name": "ad-mailer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package will help users to send emails using node mailer",
   "main": "server.js",
   "scripts": {

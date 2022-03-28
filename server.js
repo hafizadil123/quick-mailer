@@ -1,6 +1,6 @@
-const { quickMailer } = require('./mailer');
+const { adMailer } = require('./mailer');
 
-exports.module = quickMailer;
+module.exports = adMailer;
 
 
 

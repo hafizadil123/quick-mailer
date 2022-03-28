@@ -21,7 +21,7 @@ const getOptions = (options) => {
 
     return mailOption;
 }
-exports.quickMailer = (config, options) => {
+exports.adMailer = (config, options) => {
 	// create reusable transporter object using the default SMTP transport
 	let transporter = nodemailer.createTransport(getConfig(config));
 
